@@ -1,6 +1,8 @@
 # Budget Calculator
 Front-end Angular Application.
 
+Live app: http://budget.alicehnguyen.com/
+
 In this project, I created the budget calculator that is a CRUD front-end web application using Angular framework. This application allows users to add new budget items and then those items will be displayed in the income or expenses column base on the amount that the users input. The users are able to edit by clicking on the budget items. A dialog will appear, and this dialog allows the users to edit the values of the budget item. Furthermore,  the users can delete items by hovering over them and clicking on the delete button. The total budget will be calculated and displayed on the screen when the users add, update or delete items.
 
 This application contains CRUD features such as:
